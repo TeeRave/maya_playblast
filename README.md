@@ -9,3 +9,4 @@ After placing the "maya_playblast" directory to a place listed in Maya's PATH en
 import maya_playblast
 maya_playblast.show()
 ```
+![maya_L6eDrsYYyJ](https://user-images.githubusercontent.com/9269443/111076905-6b7fda00-84ff-11eb-831d-ca0d7e0cac1e.png)
